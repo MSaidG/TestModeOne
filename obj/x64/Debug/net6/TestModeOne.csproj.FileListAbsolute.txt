@@ -1,0 +1,13 @@
+C:\Users\Said\Desktop\Butr_Mods\TestModeOne\bin\x64\Debug\net6\TestModeOne.deps.json
+C:\Users\Said\Desktop\Butr_Mods\TestModeOne\bin\x64\Debug\net6\TestModeOne.dll
+C:\Users\Said\Desktop\Butr_Mods\TestModeOne\bin\x64\Debug\net6\TestModeOne.pdb
+C:\Users\Said\Desktop\Butr_Mods\TestModeOne\obj\x64\Debug\net6\TestModeOne.csproj.AssemblyReference.cache
+C:\Users\Said\Desktop\Butr_Mods\TestModeOne\obj\x64\Debug\net6\TestModeOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Said\Desktop\Butr_Mods\TestModeOne\obj\x64\Debug\net6\TestModeOne.AssemblyInfoInputs.cache
+C:\Users\Said\Desktop\Butr_Mods\TestModeOne\obj\x64\Debug\net6\TestModeOne.AssemblyInfo.cs
+C:\Users\Said\Desktop\Butr_Mods\TestModeOne\obj\x64\Debug\net6\TestModeOne.csproj.CoreCompileInputs.cache
+C:\Users\Said\Desktop\Butr_Mods\TestModeOne\obj\x64\Debug\net6\TestModeOne.sourcelink.json
+C:\Users\Said\Desktop\Butr_Mods\TestModeOne\obj\x64\Debug\net6\TestModeOne.dll
+C:\Users\Said\Desktop\Butr_Mods\TestModeOne\obj\x64\Debug\net6\refint\TestModeOne.dll
+C:\Users\Said\Desktop\Butr_Mods\TestModeOne\obj\x64\Debug\net6\TestModeOne.pdb
+C:\Users\Said\Desktop\Butr_Mods\TestModeOne\obj\x64\Debug\net6\ref\TestModeOne.dll
