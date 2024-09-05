@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestModeOne")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+5ec5fbeddfb03800d33d48e51319edc9d691329d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+cc766d7cb28ba326337459883b160cafb60bc2fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestModeOne")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestModeOne")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.0.1.0")]

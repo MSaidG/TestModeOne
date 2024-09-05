@@ -8,11 +8,11 @@ using TaleWorlds.ObjectSystem;
 
 namespace TestModeOne
 {
-    public class ArtisanBeerMissionView : MissionBehavior
+    public class ArtisanMissionBehavior : MissionBehavior
     {
         public override MissionBehaviorType BehaviorType => MissionBehaviorType.Other;
 
-        public ArtisanBeerMissionView()
+        public ArtisanMissionBehavior()
         {
             InformationManager.DisplayMessage(
                 new InformationMessage($"WOW"));
